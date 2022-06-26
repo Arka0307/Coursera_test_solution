@@ -1,2 +1,27 @@
-# Coursera_test_solution
-Submissions for Coursera
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Assignment Solution for Module 2</title>
+    <link rel="stylesheet" href="MOd-2.css">
+</head>
+<body>
+    <h1>Our Menu</h1>
+    <div class="container">
+        <div class="box">
+            <div class="head" id="one">Chicken</div>
+            <p class="para">We have Chicken Shawarma, Chicken roll, Butter chicken, Chicken biriyani, Chicken friend rice, Hunan chicken, Kung pao chicken, Chili chicken</p>
+        </div>
+        <div class="box">
+            <div class="head" id="two">Beef</div>
+            <p class="para">We have Sautted beef salad, Beef biriyani, Beef shawarma, Beef roll, Beef curry, Beef sausage, Maryisland style Beef curry, Beef momo, Beef topped pizza</p>
+        </div>
+        <div class="box" id="three">
+            <div class="head" id="four">Sushi</div>
+            <p class="para">We have fish sushi, veg sushi, mixed veg sushi, mixed non-veg sushi, pork sushi, beef sushi, chicken sushi, grilled sushi, salmon sushi, Korean special sushi</p>
+        </div>
+    </div>
+</body>
+
+</html>
